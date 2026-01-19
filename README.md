@@ -101,7 +101,7 @@ Data Modeling & Visualization
 
 Blinkit_Dashboard.pbix – Power BI dashboard file : (https://github.com/baiesha713-a11y/Blinkit-Sales-Analysis-Dashboard-Power-BI-/blob/main/BLINKIT%20Analysis%20PROJECT%20power%20bi.pbix)
 
-blinkit_sales.csv – Dataset used for analysis
+blinkit_sales.csv – Dataset used for analysis : (https://github.com/baiesha713-a11y/Blinkit-Sales-Analysis-Dashboard-Power-BI-/blob/main/blinkit_data.csv)
 
 dashboard.png – Dashboard screenshot
 
